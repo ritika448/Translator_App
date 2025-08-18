@@ -1,0 +1,28 @@
+.navbar-container {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 25px;
+  border-radius: 12px;
+  width: 90%;
+  max-width: 500px;
+  margin: auto;
+}
+
+.navbar-title {
+  color: #61dafb;
+  margin-bottom: 15px;
+}
+
+.navbar-query {
+  background: #1f1f30;
+  padding: 10px;
+  border-radius: 8px;
+  font-family: monospace;
+}
+#link{
+  color: white ;
+  text-decoration: none;
+  font-weight: bold;
+  justify-self: center;
+  text-spacing-trim: 50px;
+  font-size: 50px;
+}

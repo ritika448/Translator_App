@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+
+footer {
+  background-color: linear-gradient(135deg, #1e1e2f, #252540);;
+  padding: 1rem;
+  border-top: 1px solid #ddd;
+  text-align: center;
+  color: #666;
+}
